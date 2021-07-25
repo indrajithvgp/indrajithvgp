@@ -1,11 +1,8 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-
-<div style="text-align:center"><img width="70%" height="auto" src="./undraw_Maintenance_re_59vn.png" height="25px"/></div>
-
 <h1 align="center">Hi 👋, I'm Indrajith</h1>
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indrajithvgp" alt="indrajithvgp" /></a> </p> -->
+<div style="text-align:center"><img width="70%" height="auto" src="./undraw_Maintenance_re_59vn.png" height="25px"/></div>
+
 
 🙋‍♂️ About Me
 
