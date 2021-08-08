@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, GraphQL, AWS**
 
-- 📫 How to reach me **indrajithvgp@yahoo.com**
+- 📫 How to reach me **indrajithvgp@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 
