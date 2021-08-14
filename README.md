@@ -6,7 +6,7 @@
 
 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Ethereum, Dapps, Microservices**
+- 🌱 I’m currently learning **Ethereum, Flutter, Microservices**
 
 - 🌱 I’m currently preparing for **AWS Solution Architect Certification**
 
