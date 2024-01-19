@@ -6,17 +6,13 @@
 
 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Ethereum, Flutter, Microservices**
-
-- 🌱 I’m currently preparing for **AWS Solution Architect Certification**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking to help with **Front-End development**
 
 - 💬 Ask me about **ReactJS, NodeJS, GraphQL, AWS**
 
-- 📫 How to reach me **indrajithvgp@outlook.com**
+- 📫 How to reach me **indrajithvgp@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 
